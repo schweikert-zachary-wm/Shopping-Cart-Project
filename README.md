@@ -49,3 +49,4 @@ Students can build a basic login mechanism using PHP/MySQL so that a user can lo
 
 Students can build a fake checkout system where fake payment information is collected and stored in the database along with all necessary data (shipping address, order info, etc.)
 
+This works.
